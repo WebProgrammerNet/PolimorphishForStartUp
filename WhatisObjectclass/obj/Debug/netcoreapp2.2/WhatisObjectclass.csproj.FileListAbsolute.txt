@@ -1,0 +1,11 @@
+C:\Users\Code\source\repos\WhatisObjectclass\WhatisObjectclass\bin\Debug\netcoreapp2.2\WhatisObjectclass.deps.json
+C:\Users\Code\source\repos\WhatisObjectclass\WhatisObjectclass\bin\Debug\netcoreapp2.2\WhatisObjectclass.runtimeconfig.json
+C:\Users\Code\source\repos\WhatisObjectclass\WhatisObjectclass\bin\Debug\netcoreapp2.2\WhatisObjectclass.runtimeconfig.dev.json
+C:\Users\Code\source\repos\WhatisObjectclass\WhatisObjectclass\bin\Debug\netcoreapp2.2\WhatisObjectclass.dll
+C:\Users\Code\source\repos\WhatisObjectclass\WhatisObjectclass\bin\Debug\netcoreapp2.2\WhatisObjectclass.pdb
+C:\Users\Code\source\repos\WhatisObjectclass\WhatisObjectclass\obj\Debug\netcoreapp2.2\WhatisObjectclass.csprojAssemblyReference.cache
+C:\Users\Code\source\repos\WhatisObjectclass\WhatisObjectclass\obj\Debug\netcoreapp2.2\WhatisObjectclass.csproj.CoreCompileInputs.cache
+C:\Users\Code\source\repos\WhatisObjectclass\WhatisObjectclass\obj\Debug\netcoreapp2.2\WhatisObjectclass.AssemblyInfoInputs.cache
+C:\Users\Code\source\repos\WhatisObjectclass\WhatisObjectclass\obj\Debug\netcoreapp2.2\WhatisObjectclass.AssemblyInfo.cs
+C:\Users\Code\source\repos\WhatisObjectclass\WhatisObjectclass\obj\Debug\netcoreapp2.2\WhatisObjectclass.dll
+C:\Users\Code\source\repos\WhatisObjectclass\WhatisObjectclass\obj\Debug\netcoreapp2.2\WhatisObjectclass.pdb

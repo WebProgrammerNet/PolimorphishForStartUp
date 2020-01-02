@@ -1,0 +1,11 @@
+C:\Users\Code\source\repos\WhatisObjectclass\WhatisPoliMorphism\bin\Debug\netcoreapp2.2\WhatisPoliMorphism.deps.json
+C:\Users\Code\source\repos\WhatisObjectclass\WhatisPoliMorphism\bin\Debug\netcoreapp2.2\WhatisPoliMorphism.runtimeconfig.json
+C:\Users\Code\source\repos\WhatisObjectclass\WhatisPoliMorphism\bin\Debug\netcoreapp2.2\WhatisPoliMorphism.runtimeconfig.dev.json
+C:\Users\Code\source\repos\WhatisObjectclass\WhatisPoliMorphism\bin\Debug\netcoreapp2.2\WhatisPoliMorphism.dll
+C:\Users\Code\source\repos\WhatisObjectclass\WhatisPoliMorphism\bin\Debug\netcoreapp2.2\WhatisPoliMorphism.pdb
+C:\Users\Code\source\repos\WhatisObjectclass\WhatisPoliMorphism\obj\Debug\netcoreapp2.2\WhatisPoliMorphism.csprojAssemblyReference.cache
+C:\Users\Code\source\repos\WhatisObjectclass\WhatisPoliMorphism\obj\Debug\netcoreapp2.2\WhatisPoliMorphism.csproj.CoreCompileInputs.cache
+C:\Users\Code\source\repos\WhatisObjectclass\WhatisPoliMorphism\obj\Debug\netcoreapp2.2\WhatisPoliMorphism.AssemblyInfoInputs.cache
+C:\Users\Code\source\repos\WhatisObjectclass\WhatisPoliMorphism\obj\Debug\netcoreapp2.2\WhatisPoliMorphism.AssemblyInfo.cs
+C:\Users\Code\source\repos\WhatisObjectclass\WhatisPoliMorphism\obj\Debug\netcoreapp2.2\WhatisPoliMorphism.dll
+C:\Users\Code\source\repos\WhatisObjectclass\WhatisPoliMorphism\obj\Debug\netcoreapp2.2\WhatisPoliMorphism.pdb
